@@ -1,0 +1,8 @@
+Install the Pytest plugin:
+pip install pytest-playwright
+
+Add python scripts location to env valiable which has playwright.exe in it
+
+Install the required browsers:
+playwright install
+
